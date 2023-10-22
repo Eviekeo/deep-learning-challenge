@@ -1,4 +1,4 @@
-#### deep-learning-challenge
+## deep-learning-challenge
 
 ## Purpose
 The purpose of this assignment is to use deep learning and neural networks to create a model that predicts whether a funding applicant for nonprofit foundation Alphabet Soup will be successful, based on 34,000 organisations that have received funding from Alphabet Soup over the years.
